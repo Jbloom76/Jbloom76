@@ -1,4 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Jeremy! <br/><a href="https://github.com/Jbloom76">Programmer</a>, <a href="https://www.linkedin.com/in/jeremy-bloom-51410106/">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+
+  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Obligitory Hello World Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/jeremy-bloom-51410106
 
 <!--
 **Jbloom76/Jbloom76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
