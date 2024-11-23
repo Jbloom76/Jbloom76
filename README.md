@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
-  - [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Obligitory Hello World Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/Jbloom76/ActiveDirectoryLab/blob/main/README.md)
+  - [Obligitory Hello World Lab]()
 
 
 
