@@ -4,7 +4,7 @@
 
 
   - [Active Directory Lab](https://github.com/Jbloom76/ActiveDirectoryLab/blob/main/README.md)
-  - [Obligitory Hello World Lab]()
+  - [Obligitory Hello World Lab](https://github.com/Jbloom76/HelloWorldLab)
 
 
 
