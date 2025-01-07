@@ -6,6 +6,7 @@
   - [Active Directory Lab](https://github.com/Jbloom76/ActiveDirectoryLab/blob/main/README.md)
   - [Obligitory Hello World Lab](https://github.com/Jbloom76/HelloWorldLab)
   - [Virtual Machine Setup Lab](https://github.com/Jbloom76/Virtual_Sandbox_Setup)
+  - [Elastic SIEM Lab](https://github.com/Jbloom76/Elastic-SIEM-Lab)
 
 
 
